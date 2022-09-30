@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/VivekBro143/VivekBro143/blob/7922bdc0d9c990a251c16c6727a0ba0017aff59c/GIF/image.gif"/>
+<img align="right" height="250" width="395" alt="GIF" src="https://github.com/VivekBro143/VivekBro143/blob/7922bdc0d9c990a251c16c6727a0ba0017aff59c/GIF/image.gif"/>
 
 - 👋 Hi, I’m **𝐕𝐢𝐯𝐞𝐤 𝐃𝐡𝐨𝐤**
 - 👀 I’m interested in **𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 & 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠.**
