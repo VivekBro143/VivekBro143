@@ -14,9 +14,9 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝐃𝐚𝐭𝐚𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠**
 - 💞️ I’m looking to collaborate on **𝐀𝐧𝐝𝐫𝐨𝐢𝐝 , 𝐃𝐚𝐭𝐚𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐨𝐫 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 
-<br/> <br/> <br/> <br/>
+<br/> <br/> <br/>
 <p align="center">
-<img width="900" src="https://github.com/VivekBro143/VivekBro143/blob/f2fb533960bcab790da01c83d69d4f5b64353681/SVG/github-snake.svg">
+<img width="890" src="https://github.com/VivekBro143/VivekBro143/blob/f2fb533960bcab790da01c83d69d4f5b64353681/SVG/github-snake.svg">
 <p/>
 
 <br/>
